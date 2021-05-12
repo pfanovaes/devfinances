@@ -14,3 +14,15 @@ const Modal = {
           .classList.remove('active')
     }
 }
+
+const Transaction = {
+    incomes() {
+        // somar as entradas
+    },
+    expenses() {
+        //somar as saídas
+    },
+    total() {
+        // entradas - saídas
+    }
+}
